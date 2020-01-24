@@ -1,0 +1,28 @@
+{
+  "work_list": [
+    {
+      "nama": "Sandy",
+      "usia": "23",
+      "pekerjaan": "Dosen",
+      "id": 1
+    },
+    {
+      "nama": "Hilmi",
+      "usia": "24",
+      "pekerjaan": "Wirausaha",
+      "id": 2
+    },
+    {
+      "nama": "Ali",
+      "usia": "25",
+      "pekerjaan": "Guru",
+      "id": 3
+    },
+    {
+      "nama": "Andri",
+      "usia": "22",
+      "pekerjaan": "Manager",
+      "id": 4
+    }
+  ]
+}
